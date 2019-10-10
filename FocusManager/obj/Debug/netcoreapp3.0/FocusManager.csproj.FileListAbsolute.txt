@@ -1,0 +1,11 @@
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.exe
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.deps.json
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.runtimeconfig.json
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.runtimeconfig.dev.json
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.dll
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.pdb
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.csprojAssemblyReference.cache
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.AssemblyInfoInputs.cache
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.AssemblyInfo.cs
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.dll
+C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.pdb
