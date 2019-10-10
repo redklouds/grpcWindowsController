@@ -1,0 +1,17 @@
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\WindowsGrpcControllerClient.exe
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\obj\Debug\netcoreapp3.0\WindowsGrpcControllerClient.csprojAssemblyReference.cache
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\obj\Debug\netcoreapp3.0\WindowsGrpcControllerClient.AssemblyInfoInputs.cache
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\obj\Debug\netcoreapp3.0\WindowsGrpcControllerClient.AssemblyInfo.cs
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\obj\Debug\netcoreapp3.0\WindowsGrpcControllerClient.csproj.CopyComplete
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\WindowsGrpcControllerClient.deps.json
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\WindowsGrpcControllerClient.runtimeconfig.json
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\WindowsGrpcControllerClient.runtimeconfig.dev.json
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\WindowsGrpcControllerClient.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\WindowsGrpcControllerClient.pdb
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\obj\Debug\netcoreapp3.0\WindowsGrpcControllerClient.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\WindowsGrpcControllerClient\obj\Debug\netcoreapp3.0\WindowsGrpcControllerClient.pdb

@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\redklpouds\\.nuget\\packages\\": {}
+    "C:\\Users\\Danny\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redklpouds\\source\\repos\\FocusManager\\FocusManager\\FocusManager.csproj",
+      "projectUniqueName": "C:\\Users\\Danny\\Source\\Repos\\grpcWindowsController\\FocusManager\\FocusManager.csproj",
       "projectName": "FocusManager",
-      "projectPath": "C:\\Users\\redklpouds\\source\\repos\\FocusManager\\FocusManager\\FocusManager.csproj",
-      "packagesPath": "C:\\Users\\redklpouds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redklpouds\\source\\repos\\FocusManager\\FocusManager\\obj\\",
+      "projectPath": "C:\\Users\\Danny\\Source\\Repos\\grpcWindowsController\\FocusManager\\FocusManager.csproj",
+      "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Danny\\Source\\Repos\\grpcWindowsController\\FocusManager\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\redklpouds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

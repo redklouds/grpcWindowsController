@@ -9,3 +9,14 @@ C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3
 C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.AssemblyInfo.cs
 C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.dll
 C:\Users\redklpouds\source\repos\FocusManager\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.pdb
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.csprojAssemblyReference.cache
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.AssemblyInfoInputs.cache
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.AssemblyInfo.cs
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\obj\Debug\netcoreapp3.0\FocusManager.pdb
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.exe
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.deps.json
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.runtimeconfig.json
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.runtimeconfig.dev.json
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.dll
+C:\Users\Danny\Source\Repos\grpcWindowsController\FocusManager\bin\Debug\netcoreapp3.0\FocusManager.pdb

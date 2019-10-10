@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option csharp_namespace = "WindowsGrpcControllerServer";
+
+package Greet;
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SayHello (HelloRequest) returns (HelloReply);
+
+  rpc ToggleWindowSwitching (ToggleRequest) returns (ToggleResponse);
+}
+
+message ToggleRequest{}
+message ToggleResponse {
+	bool isOn = 1;
+}
+
+
+
+// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;
+}
+
+
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}
