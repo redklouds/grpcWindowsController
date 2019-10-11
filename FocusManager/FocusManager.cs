@@ -10,8 +10,11 @@ namespace FocusManager
 {
 
     class FocusManager
-
     //https://www.codeproject.com/Articles/2976/Detect-if-another-process-is-running-and-bring-it
+    //https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-showwindowasync
+    //https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-showwindow
+    //https://www.codeproject.com/Articles/2976/Detect-if-another-process-is-running-and-bring-it
+    //https://elanderson.net/2016/09/add-git-ignore-to-existing-visual-studio-project/
     {
 
         [DllImport("USER32.DLL")]
