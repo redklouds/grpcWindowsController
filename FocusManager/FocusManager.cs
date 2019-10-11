@@ -11,12 +11,23 @@ namespace FocusManager
 
     class FocusManager
 
-
+    //https://www.codeproject.com/Articles/2976/Detect-if-another-process-is-running-and-bring-it
     {
 
         [DllImport("USER32.DLL")]
         public static extern bool SetForegroundWindow(IntPtr hWnd);
 
+
+        //shows the window asyn, does not block and continues program eecution 
+        //without needing the controol to come back
+
+        //https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-showwindowasync
+        /*
+         * Remarks
+This function posts a show-window event to the message queue of the given window. An application can use this function to avoid becoming nonresponsive while waiting for a nonresponsive application to finish processing a show-window event.
+         * */
+        [DllImport("USER32.DLL")]
+        public static extern bool ShowWindowAsync(IntPtr hwd, int nCmdShowOption);
 
         private List<Process> procList;
         private bool continueToRun;
@@ -94,6 +105,7 @@ namespace FocusManager
                 {
                     Console.WriteLine($"Switching Processes to: {proc.Id}");
                     IntPtr windowPtr = proc.MainWindowHandle;
+                    ShowWindowAsync(windowPtr, 9);
                     SetForegroundWindow(windowPtr);
                     var isResponding = proc.Responding;
                     //Console.WriteLine($"is resonding? {isResponding}");
